@@ -55,6 +55,9 @@ Entidades:
 
 Esse foi o esboço da primeira representação, sem se preocupar com probblemas de escala:
 
+![first-attempt](monolitc-representation.png)
+
 Esse foi o esboço final da modelagem, se preocupando com formas de escalar o sistema:
 
+![second-attempt](refactored-representation.png)
 
