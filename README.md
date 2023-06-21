@@ -52,3 +52,9 @@ do revendedor o CNPJ e a razão social.
 
 Entidades:
 - Revendedor (id, cnpj, razão social, contato);
+
+Esse foi o esboço da primeira representação, sem se preocupar com probblemas de escala:
+
+Esse foi o esboço final da modelagem, se preocupando com formas de escalar o sistema:
+
+
